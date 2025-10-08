@@ -39,6 +39,7 @@ Walmart-Sales-Analysis/
 ├── README.md            # Project documentation
 └── requirements.txt     # Python dependencies
 
+
 🚀 Outcome
 
 Delivered an end-to-end analytical workflow from data cleaning to SQL-driven business insights, helping visualize and understand Walmart’s sales dynamics effectively.
