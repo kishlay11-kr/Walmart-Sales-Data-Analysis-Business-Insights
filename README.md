@@ -31,12 +31,15 @@ Analyzed customer ratings and payment preferences
 Explored correlations between product type and total revenue
 
 📁 Project Structure
-|-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
+```
+Walmart-Sales-Analysis/
+│
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter notebooks for cleaning and EDA
+├── sql_queries/ # SQL scripts for business questions
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
+```
 
 
 🚀 Outcome
