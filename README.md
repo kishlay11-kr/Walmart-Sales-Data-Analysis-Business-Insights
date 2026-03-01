@@ -30,18 +30,6 @@ Analyzed customer ratings and payment preferences
 
 Explored correlations between product type and total revenue
 
-📁 Project Structure
-```
-Walmart-Sales-Analysis/
-│
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for cleaning and EDA
-├── sql_queries/ # SQL scripts for business questions
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-```
-
-
 🚀 Outcome
 
 Delivered an end-to-end analytical workflow from data cleaning to SQL-driven business insights, helping visualize and understand Walmart’s sales dynamics effectively.
